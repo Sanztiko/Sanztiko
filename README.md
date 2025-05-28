@@ -18,6 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
+## 📈 GitHub Stats
+![Sanztiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanztiko&show_icons=true&theme=radical)
+
 ###
 
 <img align="left" height="239" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"  />
