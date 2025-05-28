@@ -18,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<img align="left" height="239" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"  />
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -30,3 +26,7 @@
 </p>
 
 ###
+
+<img align="left" height="239" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"  />
+
+
